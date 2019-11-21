@@ -11,7 +11,7 @@ import javax.persistence.OneToOne;
 import javax.persistence.Table;
 import javax.persistence.UniqueConstraint;
 
-import com.p2p.empresa.dto.Empresa;
+//import com.p2p.empresa.dto.Empresa;
 
 import java.io.Serializable;
 import java.security.Timestamp; 
